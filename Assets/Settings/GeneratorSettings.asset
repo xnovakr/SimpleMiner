@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a3d226e8772f4349b3c07efe9d115c2, type: 3}
+  m_Name: GeneratorSettings
+  m_EditorClassIdentifier: 
+  grassDefaultPrefab: {fileID: 5869124417857303709, guid: e195e5ea1817d3647a0f2bf5ee642136,
+    type: 3}
+  grassBiomePrefab: {fileID: 5869124417857303709, guid: 7e5f043cef6493241b657a3f7705f99f,
+    type: 3}
+  dirtPrefab: {fileID: 5869124417857303709, guid: 66d13324712cca44da1e3c71ffb62915,
+    type: 3}
+  stonePrefab: {fileID: 5869124417857303709, guid: d5806a48a78c6e84eb9c97acf5a05e5b,
+    type: 3}
+  platform: {fileID: 8385539763530467432, guid: 0f9ac31acd49a054fa213f95a0ae2701,
+    type: 3}
+  oreLevelOne: {fileID: 2516128100489456568, guid: 4f399dc1fc244a747b829c5293550b31,
+    type: 3}
+  oreLevelTwo: {fileID: 326219039317110442, guid: 25ea48d8e320cb94c9b54d2893dff199,
+    type: 3}
+  oreLevelThree: {fileID: 2516128100489456568, guid: 03d49cf8a5c10cb4b905ab02a75addf7,
+    type: 3}
+  oreLevelFour: {fileID: 2516128100489456568, guid: 9f1ce75724b47344c94d46b4c8679086,
+    type: 3}
+  numberOfChunks: 1
+  noiseLayers: []
